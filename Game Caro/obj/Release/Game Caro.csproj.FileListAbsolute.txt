@@ -1,0 +1,9 @@
+D:\Lập trình C Sharp\Game Caro\Game Caro\bin\Release\Game Caro.exe
+D:\Lập trình C Sharp\Game Caro\Game Caro\bin\Release\Game Caro.pdb
+D:\Lập trình C Sharp\Game Caro\Game Caro\obj\Release\Game Caro.csprojAssemblyReference.cache
+D:\Lập trình C Sharp\Game Caro\Game Caro\obj\Release\Game_Caro.Form1.resources
+D:\Lập trình C Sharp\Game Caro\Game Caro\obj\Release\Game_Caro.Properties.Resources.resources
+D:\Lập trình C Sharp\Game Caro\Game Caro\obj\Release\Game Caro.csproj.GenerateResource.cache
+D:\Lập trình C Sharp\Game Caro\Game Caro\obj\Release\Game Caro.csproj.CoreCompileInputs.cache
+D:\Lập trình C Sharp\Game Caro\Game Caro\obj\Release\Game Caro.exe
+D:\Lập trình C Sharp\Game Caro\Game Caro\obj\Release\Game Caro.pdb
